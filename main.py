@@ -84,6 +84,7 @@ wfe_criteria = {
     "osiris.valthost.com": None,
     "discord.gg/k9fTy9wm".lower(): "Osiris",
     "(trigger)": None,
+    "dragon": "LotD",
 
     # TEO tagging practices are often inconsistent and reliable signatures are hard to come by, but
     # they have to put their name on it somewhere. These are common phrases in TEO tags that are unlikely
@@ -125,6 +126,7 @@ offices_criteria = {
     "praf": "TCB",
     "the eo": "TEO",
     "the silver dragon": "LotD",
+    "The Draconic Empress": "LotD",
 }
 
 ro_criteria = [
@@ -198,6 +200,7 @@ embassies_criteria = {
     "Warzone Trinidad Corporate Office": "WZT",
     "Astra": "Astoria",
     "Lair of the Dragon": "LotD",
+    "Hoard of the Lair": "LotD",
 }
 
 
